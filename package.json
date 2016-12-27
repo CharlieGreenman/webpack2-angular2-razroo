@@ -54,7 +54,8 @@
     "webpack-merge": "~1.1.1"
   },
   "dependencies": {
-    "angular": "^1.5.8",
+    "@angular/core": "^2.4.1",
+    "angular": "^1.6.1",
     "angular-ui-router": "^0.3.1",
     "babel-plugin-transform-runtime": "^6.3.13",
     "babel-preset-react": "^6.3.13",
@@ -63,7 +64,8 @@
     "json-loader": "^0.5.4",
     "lodash": "^4.15.0",
     "redux": "^3.5.2",
-    "redux-thunk": "^2.1.0"
+    "redux-thunk": "^2.1.0",
+    "rxjs": "^5.0.2"
   },
   "nyc": {
     "require": [
