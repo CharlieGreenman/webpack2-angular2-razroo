@@ -71,4 +71,8 @@ As Angular 1.5 introduces components, this build tries to be as progressive as p
     * Preserves ES6 in reports
   * e2e
     * Uses protractor  
-* Yarn for super uber fast package management and stuff                                            |
+* Yarn for super uber fast package management and stuff             
+
+This build heavily promotes angular-cli. Even though the build use's redux and
+sass/css-modules, it is still the best of options. Feel free to contribute to
+angular-cli.
