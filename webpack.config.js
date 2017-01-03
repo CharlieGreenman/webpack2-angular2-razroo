@@ -7,12 +7,12 @@ require('es6-promise').polyfill();
 
 //a little bit of glitch before page opens,
 //works well otherwise
-open("http://localhost:8080/");
+open("http://localhost:8081/");
 
 module.exports = {
     entry: [
         //'webpack/hot/dev-server',
-        'webpack-dev-server/client?http://localhost:8080',
+        'webpack-dev-server/client?http://localhost:8081',
         path.resolve(__dirname, 'src/app/main.js')
     ],
     output: {
