@@ -1,4 +1,4 @@
-# The world's most cutting edge Webpack2 Angular 1.5 Build System
+# Webpack2 Angular2 Build System
 
 ## To use run the following commands ##
 
@@ -39,7 +39,7 @@ Build is influenced by architecture found in the [AngularJS Best Practices: Dire
   - libs     // Third-party libraries such as jQuery, Moment, Underscore, etc.
 index.html
 
-As Angular 1.5 introduces components, this build tries to be as progressive as possible. For instance, it uses css-modules, testing with jasmine, karma, protracter, ng-redux, and eslint.
+As Angular2. this build tries to be as progressive as possible. For instance, it uses css-modules, testing with jasmine, karma, protracter, ng-redux, and eslint.
 
  Some of the things that this build includes. Webpack
 
